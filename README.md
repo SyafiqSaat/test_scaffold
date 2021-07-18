@@ -20,3 +20,6 @@ This is a Cloud Computing Foundation Week 3 **"Review GitHub Actions GitHub Proj
     1. python3 -m venv ~/.scaffold      -- where scaffold can be change
     2. source ~/.scaffold/bin/activate  -- where scaffold can be change
     3. which python                     -- to test
+10. Enter codes into the 4 files
+11. Enter into bash: make install
+12. 
