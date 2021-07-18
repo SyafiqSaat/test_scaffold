@@ -4,7 +4,7 @@
 This is a Cloud Computing Foundation Week 3 **"Review GitHub Actions GitHub Project"**.
 
 
-## How to create workflow from scratch
+## How to create workflow from scratch(For AWS Cloud9)
 1. Generate SSH from code (add image)
 2. Enter into bash: ssh-keygen -t rsa
 3. Enter into bash: cat (/home/ec2-user//.ssh/id_rsa.pub) --in brackets should be copied from part 2
