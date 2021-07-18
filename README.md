@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/SyafiqSaat/test_scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/SyafiqSaat/test_scaffold/actions/workflows/main.yml)
+
 # test_scaffold - review
 This is a Cloud Computing Foundation Week 3 **"Review GitHub Actions GitHub Project"**.
 
